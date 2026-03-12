@@ -6,7 +6,7 @@
 
 *I don't know half of my `any` types half as well as I should like; and I like less than half of my `interfaces` half as well as they deserve.*
 
-#### *Currently unearthing ancient bugs in the delvings and deep-places...*
+#### *Currently unearthing ancient bugs in delvings and deep-places...*
 
 ## ⚔️ My Fellowship <sub><sup>(Tech Stack)</sup></sub></sub>
 
