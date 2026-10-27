@@ -42,13 +42,13 @@
 
 ## 🪙 Spoils of the Deep-places <sub><sup>(GitHub Stats)</sup></sub></sub>
 
-<p align="left">
-  <a href="javascript:void(0)">
+<p align="center">
+  <a href="https://github.com">
     <img src="https://vercel.app" alt="GitHub Stats" />
   </a>
   <br />
   <br />
-  <a href="javascript:void(0)">
+  <a href="https://github.com">
     <img src="https://vercel.app" alt="Most Used Languages" />
   </a>
 </p>
