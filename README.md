@@ -42,7 +42,7 @@
 
 ## 🪙 Spoils of the Deep-places <sub><sup>(GitHub Stats)</sup></sub></sub>
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abs1337&show_icons=true&theme=merko&include_all_commitsn=true&hide_title=true&show=reviews&rank_icon=github)
+[![Stats](https://github-stats-extended.vercel.app/api?username=abs1337)](https://github.com/stats-organization/github-stats-extended)
 
 ## Dark Wizard’s Lore in Bash
 <table>
