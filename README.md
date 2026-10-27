@@ -42,9 +42,13 @@
 
 ## 🪙 Spoils of the Deep-places <sub><sup>(GitHub Stats)</sup></sub></sub>
 
-![Stats](https://github-stats-extended.vercel.app/api?username=abs1337&theme=dracula&show_icons=true&include_all_commits=true)
-![Stats](https://github-stats-extended.vercel.app/api/top-langs?username=abs1337&theme=dracula&show_icons=true)
-![Stats](https://github-stats-extended.vercel.app/api/wakatime?username=abs1337&theme=dracula&show_icons=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=abs1337&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <br />
+  <br />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=abs1337&theme=dracula&show_icons=true" alt="Most Used Languages" />
+</p>
+
 
 ## Dark Wizard’s Lore in Bash
 <table>
