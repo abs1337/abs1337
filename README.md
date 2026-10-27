@@ -43,7 +43,7 @@
 ## 🪙 Spoils of the Deep-places <sub><sup>(GitHub Stats)</sup></sub></sub>
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=abs1337&theme=dracula&show_icons=true&include_all_commits=true&show=contributions,all_time_contribs,reviews,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=abs1337&theme=dracula&show_icons=true&include_all_commits=true&show=contributions,all_time_contribs" alt="GitHub Stats" />
   <br />
 </p>
 
