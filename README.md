@@ -42,11 +42,15 @@
 
 ## 🪙 Spoils of the Deep-places <sub><sup>(GitHub Stats)</sup></sub></sub>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=abs1337&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+<p align="left">
+  <a href="javascript:void(0)">
+    <img src="https://vercel.app" alt="GitHub Stats" />
+  </a>
   <br />
   <br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=abs1337&theme=dracula&show_icons=true" alt="Most Used Languages" />
+  <a href="javascript:void(0)">
+    <img src="https://vercel.app" alt="Most Used Languages" />
+  </a>
 </p>
 
 
