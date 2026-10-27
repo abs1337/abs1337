@@ -45,10 +45,7 @@
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=abs1337&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
   <br />
-  <br />
-  <img src="[https://github-stats-extended.vercel.app/api/top-langs?username=abs1337&owner=tilli-pro&theme=dracula&show_icons=true](https://github-stats-extended.vercel.app/api?username=abs1337&owner=tilli-pro&hide=prs,issues,stars,commits,contribs&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&hide_rank=true&custom_title=abs%27s%20Stats%20for%tilli-pro&card_width=370&theme=dracula)" alt="Most Used Languages" />
 </p>
-
 
 ## Dark Wizard’s Lore in Bash
 <table>
